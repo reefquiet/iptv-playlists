@@ -14,20 +14,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
-      - name: Download IPTV data
+      - name: Generate playlists
         run: |
-          mkdir -p countries
-          curl -L https://iptv-org.github.io/iptv/countries/tr.m3u -o countries/tr.m3u
-          curl -L https://iptv-org.github.io/iptv/countries/de.m3u -o countries/de.m3u
-          curl -L https://iptv-org.github.io/iptv/countries/gb.m3u -o countries/gb.m3u
-          curl -L https://iptv-org.github.io/iptv/countries/us.m3u -o countries/us.m3u
+          python scripts/generate_playlists.py
 
       - name: Commit playlists
         run: |

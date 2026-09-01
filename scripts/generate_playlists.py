@@ -1,16 +1,36 @@
 import json
 import urllib.request
 from pathlib import Path
+from collections import defaultdict
+from urllib.parse import urlparse
 
 CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
 STREAMS_URL = "https://iptv-org.github.io/api/streams.json"
 LOGOS_URL = "https://iptv-org.github.io/api/logos.json"
 
+# İlk etapta yayına alacağımız ülkeler.
 COUNTRIES = {
     "tr": "Türkiye",
     "de": "Almanya",
     "gb": "Birleşik Krallık",
     "us": "Amerika Birleşik Devletleri",
+    "fr": "Fransa",
+    "it": "İtalya",
+    "es": "İspanya",
+    "pt": "Portekiz",
+    "nl": "Hollanda",
+    "be": "Belçika",
+    "at": "Avusturya",
+    "ch": "İsviçre",
+    "pl": "Polonya",
+    "se": "İsveç",
+    "no": "Norveç",
+    "dk": "Danimarka",
+    "fi": "Finlandiya",
+    "cz": "Çekya",
+    "gr": "Yunanistan",
+    "ro": "Romanya",
+    "bg": "Bulgaristan",
 }
 
 CATEGORY_MAP = {
@@ -42,66 +62,119 @@ CATEGORY_MAP = {
 
 
 def download_json(url):
-    print(f"Downloading {url}")
+    print(f"Downloading: {url}")
 
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "reefquiet/iptv-playlists"
+            "User-Agent": "reefquiet-iptv-playlists/1.0"
         }
     )
 
-    with urllib.request.urlopen(request, timeout=60) as response:
+    with urllib.request.urlopen(request, timeout=120) as response:
         return json.load(response)
 
 
+def valid_stream_url(url):
+    if not url:
+        return False
+
+    try:
+        parsed = urlparse(url)
+
+        if parsed.scheme not in ("http", "https"):
+            return False
+
+        if not parsed.netloc:
+            return False
+
+        return True
+
+    except Exception:
+        return False
+
+
+def choose_category(categories):
+    if not categories:
+        return "general"
+
+    for category in categories:
+        if category in CATEGORY_MAP:
+            return category
+
+    return "general"
+
+
 def main():
-    print("Loading IPTV data...")
 
     channels = download_json(CHANNELS_URL)
     streams = download_json(STREAMS_URL)
     logos = download_json(LOGOS_URL)
 
-    # Kanal ID -> stream
-    stream_map = {}
+    print(f"Channels: {len(channels)}")
+    print(f"Streams: {len(streams)}")
+    print(f"Logos: {len(logos)}")
+
+    # --------------------------------------------------
+    # STREAMS
+    # --------------------------------------------------
+
+    streams_by_channel = defaultdict(list)
 
     for stream in streams:
+
         channel_id = stream.get("channel")
+        url = stream.get("url")
 
         if not channel_id:
             continue
 
-        url = stream.get("url")
-
-        if not url:
+        if not valid_stream_url(url):
             continue
 
-        # İlk geçerli stream'i kullan
-        if channel_id not in stream_map:
-            stream_map[channel_id] = url
+        streams_by_channel[channel_id].append(url)
 
-    # Kanal ID -> logo
+    # --------------------------------------------------
+    # LOGOS
+    # --------------------------------------------------
+
     logo_map = {}
 
     for logo in logos:
+
         channel_id = logo.get("channel")
         url = logo.get("url")
 
-        if channel_id and url and channel_id not in logo_map:
+        if not channel_id:
+            continue
+
+        if not valid_stream_url(url):
+            continue
+
+        if channel_id not in logo_map:
             logo_map[channel_id] = url
 
     output_dir = Path("countries")
-    output_dir.mkdir(parents=True, exist_ok=True)
+    output_dir.mkdir(exist_ok=True)
+
+    # --------------------------------------------------
+    # COUNTRIES
+    # --------------------------------------------------
 
     for country_code, country_name in COUNTRIES.items():
 
-        print(f"\nCreating {country_name} ({country_code})")
+        print()
+        print("=" * 50)
+        print(f"{country_name} ({country_code})")
+        print("=" * 50)
 
         country_channels = []
 
         for channel in channels:
 
-            if channel.get("country", "").lower() != country_code:
+            channel_country = channel.get("country", "")
+
+            if channel_country.lower() != country_code:
                 continue
 
             if channel.get("is_nsfw"):
@@ -112,39 +185,84 @@ def main():
             if not channel_id:
                 continue
 
-            stream_url = stream_map.get(channel_id)
+            channel_streams = streams_by_channel.get(
+                channel_id,
+                []
+            )
 
-            if not stream_url:
+            if not channel_streams:
                 continue
 
-            categories = channel.get("categories", [])
+            # Şimdilik kanal başına bir stream.
+            stream_url = channel_streams[0]
 
-            category = "general"
+            name = channel.get(
+                "name",
+                channel_id
+            )
 
-            for cat in categories:
-                if cat in CATEGORY_MAP:
-                    category = cat
-                    break
+            categories = channel.get(
+                "categories",
+                []
+            )
+
+            category = choose_category(categories)
 
             country_channels.append({
                 "id": channel_id,
-                "name": channel.get("name", channel_id),
-                "logo": logo_map.get(channel_id, ""),
+                "name": name,
+                "logo": logo_map.get(
+                    channel_id,
+                    ""
+                ),
                 "category": category,
                 "url": stream_url,
             })
 
-        # Kanal adına göre sırala
+        # --------------------------------------------------
+        # DUPLICATE CLEANUP
+        # --------------------------------------------------
+
+        unique_channels = {}
+
+        for channel in country_channels:
+
+            key = channel["id"]
+
+            if key not in unique_channels:
+                unique_channels[key] = channel
+
+        country_channels = list(
+            unique_channels.values()
+        )
+
+        # --------------------------------------------------
+        # SORT
+        # --------------------------------------------------
+
         country_channels.sort(
-            key=lambda x: (
-                CATEGORY_MAP.get(x["category"], "Genel"),
-                x["name"].lower()
+            key=lambda channel: (
+                CATEGORY_MAP.get(
+                    channel["category"],
+                    "Genel"
+                ),
+                channel["name"].lower()
             )
         )
 
-        output_file = output_dir / f"{country_code}.m3u"
+        # --------------------------------------------------
+        # WRITE M3U
+        # --------------------------------------------------
 
-        with output_file.open("w", encoding="utf-8") as file:
+        output_file = (
+            output_dir /
+            f"{country_code}.m3u"
+        )
+
+        with output_file.open(
+            "w",
+            encoding="utf-8"
+        ) as file:
 
             file.write("#EXTM3U\n")
 
@@ -155,16 +273,14 @@ def main():
                     "Genel"
                 )
 
-                logo = channel["logo"]
-
                 attributes = [
                     f'tvg-id="{channel["id"]}"',
                     f'tvg-name="{channel["name"]}"',
                 ]
 
-                if logo:
+                if channel["logo"]:
                     attributes.append(
-                        f'tvg-logo="{logo}"'
+                        f'tvg-logo="{channel["logo"]}"'
                     )
 
                 attributes.append(
@@ -183,8 +299,11 @@ def main():
                 )
 
         print(
-            f"Created {output_file}: "
-            f"{len(country_channels)} channels"
+            f"Created: {output_file}"
+        )
+
+        print(
+            f"Channels: {len(country_channels)}"
         )
 
 

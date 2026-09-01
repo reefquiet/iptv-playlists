@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" group-title="Din",KKRtv
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Genel",DR1
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:-1 tvg-id="DRTV.dk" tvg-name="DRTV" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" group-title="Genel",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/afujBQs.jpeg" group-title="Genel",Kanal Hovedstaden
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk" tvg-name="TV 2/Bornholm" tvg-logo="https://i.imgur.com/cEOpXU6.png" group-title="Genel",TV 2/Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Genel",TV from the Danish Parliament
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-name="TV Storbyen" tvg-logo="https://i.ibb.co/X5h3hJL/tvstb.png" group-title="Genel",TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3Plus.dk" tvg-name="TV3+" tvg-logo="https://i.imgur.com/pj9jZHP.png" group-title="Genel",TV3+
+https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk" tvg-name="TVMarineret" tvg-logo="https://i.imgur.com/r1Caske.jpg" group-title="Genel",TVMarineret
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Kültür",DR2
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:-1 tvg-id="TV2Sport.dk" tvg-name="TV 2 Sport" tvg-logo="https://i.imgur.com/76Zzs5R.png" group-title="Spor",TV 2 Sport
+https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/960px-DR_Ramasjang_2020.svg.png" group-title="Çocuk",DR Ramasjang
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8

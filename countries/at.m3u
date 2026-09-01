@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTV.at" tvg-name="K-TV" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Din",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KITTV.at" tvg-name="KIT-TV" tvg-logo="https://i.imgur.com/5rDo1Za.png" group-title="Din",KIT-TV
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="Film",ServusTV
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="Genel",ATV
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Genel",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="LandleTV.at" tvg-name="Landle TV" tvg-logo="https://i.imgur.com/omLVQ4r.png" group-title="Genel",Landle TV
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="Okto" tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Genel",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg" group-title="Genel",ORF 1
+https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="Genel",ORF 2
+https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
+#EXTINF:-1 tvg-id="P3tv.at" tvg-name="P3tv" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="Genel",P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-id="R9.at" tvg-name="R9" tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Genel",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.at" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png" group-title="Genel",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="SteiermarkTV.at" tvg-name="Steiermark TV" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="Genel",Steiermark TV
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TirolTV.at" tvg-name="Tirol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" group-title="Genel",Tirol TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-name="TV 1 Oberosterreich" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="Genel",TV 1 Oberosterreich
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-name="Uppera Balkan" tvg-logo="https://i.imgur.com/eqcmi5G.png" group-title="Genel",Uppera Balkan
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 tvg-id="W24.at" tvg-name="W24" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="Genel",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" group-title="Kültür",ORF III
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="AntenneKaernten.at" tvg-name="Antenne Kaernten" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" group-title="Müzik",Antenne Kaernten
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenneSteiermark.at" tvg-name="Antenne Steiermark" tvg-logo="https://i.imgur.com/qnappvd.jpeg" group-title="Müzik",Antenne Steiermark
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-name="Antenne Vorarlberg" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="Müzik",Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio O3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="Müzik",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Müzik",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-name="Swamiji TV American" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV American
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-name="Swamiji TV Australian" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV Australian
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV European
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-name="Schladming-Dachstein TV" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Seyahat",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="K19.at" tvg-name="K19" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="Spor",K19
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Spor",Red Bull TV
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCyclingChannel.at" tvg-name="The Cycling Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="Spor",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1 tvg-id="ORFKids.at" tvg-name="ORF Kids" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Çocuk",ORF Kids
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd

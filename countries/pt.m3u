@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animasyon",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt" tvg-name="ADB TV" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Din",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Din",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt" tvg-name="Mana Church Online" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Din",Mana Church Online
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-name="Mana Cirkev Online" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Din",Mana Cirkev Online
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-name="Mana Eglise Online" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Din",Mana Eglise Online
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt" tvg-name="Mana Iglesia Online" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Din",Mana Iglesia Online
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt" tvg-name="Mana Igreja Online" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Din",Mana Igreja Online
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-name="Mana Tserkov' Onlayn" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Din",Mana Tserkov' Onlayn
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt" tvg-name="TV Mana 1" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Din",TV Mana 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt" tvg-name="TV Mana 2" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Din",TV Mana 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-name="TV Mana Brasil" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Din",TV Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt" tvg-name="TV Mana English" tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="Din",TV Mana English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt" tvg-name="TV Mana Espanhol" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Din",TV Mana Espanhol
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-name="TV Mana Russkiy" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Din",TV Mana Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficcao" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Dizi",TVI Ficcao
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Eğlence",Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Eğlence",TVI Reality
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Film",AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Film",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Film",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" group-title="Film",Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Genel",ARTV
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="Genel",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSines.pt" tvg-name="Radio Sines" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Genel",Radio Sines
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" group-title="Genel",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="Genel",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Acores" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="Genel",RTP Acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" group-title="Genel",RTP Africa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" group-title="Genel",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memoria" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" group-title="Genel",RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" group-title="Genel",RTP Mundo
+https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Genel",SIC
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt" tvg-name="SIC Alta Definicao" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="Genel",SIC Alta Definicao
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" group-title="Genel",SIC Mulher
+http://zntx.dyndns.org:8085/hls/sicm.m3u8
+#EXTINF:-1 tvg-id="SICRadical.pt" tvg-name="SIC Radical" tvg-logo="https://i.imgur.com/6g0obyk.png" group-title="Genel",SIC Radical
+http://znty.dyndns.org:5010/hls/sicr.m3u8
+#EXTINF:-1 tvg-id="SICReplay.pt" tvg-name="SIC Replay" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="Genel",SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="Genel",TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-name="V+ TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Genel",V+ TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Noticias" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Haber",RTP Noticias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="Haber",SIC Noticias
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" group-title="Komedi",Star Comedy
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+#EXTINF:-1 tvg-id="Famatv.pt" tvg-name="Famatv" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Müzik",Famatv
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Müzik",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPCRadioeTV.pt" tvg-name="NPC Radio e TV" tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="Müzik",NPC Radio e TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-name="ON FM" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Müzik",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt" tvg-name="RFPtv" tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="Müzik",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Spor",FUEL TV
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="Spor",Sport TV+
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Spor",Sport TV1
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV2" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="Spor",Sport TV2
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV5" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="Spor",Sport TV5
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV6" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="Spor",Sport TV6
+http://zntx.dyndns.org:8085/hls/stv6.m3u8
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV7" tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="Spor",Sport TV7
+http://zntx.dyndns.org:8085/hls/stv7.m3u8
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="Yaşam",Star Crime
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" group-title="Yaşam",Star Life
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Çocuk",Disney Channel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8

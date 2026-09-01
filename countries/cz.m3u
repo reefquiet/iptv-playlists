@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="CT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Belgesel",CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="History.cz" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Belgesel",History
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Belgesel",National Geographic
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",National Geographic Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/F5Uosum.png" group-title="Belgesel",Spektrum
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Belgesel",Viasat Explore
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Belgesel",Viasat History
+http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Belgesel",Viasat Nature
+http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" tvg-logo="https://i.imgur.com/VaVi65F.png" group-title="Eğlence",Spektrum Home
+http://88.212.15.19/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Film",Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Film",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Film",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="Kino Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" group-title="Film",Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="Ballcasterz.cz" tvg-name="Ballcasterz" tvg-logo="https://web02.antik.sk/assets/img/channels/59cd3407a28c122f4abbc7b01eff7a0c.svg" group-title="Genel",Ballcasterz
+http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-name="Barrandov Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" group-title="Genel",Barrandov Krimi
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="CT1.cz" tvg-name="CT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="Genel",CT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DVTVExtra.cz" tvg-name="DVTV Extra" tvg-logo="https://web02.antik.sk/assets/img/channels/615631fb7d93832cdf7a2d85be336c4e.svg" group-title="Genel",DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="Genel",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="History2.cz" tvg-name="History2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" group-title="Genel",History2
+http://88.212.15.19/live/test_h2/playlist.m3u8
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="Genel",JC1
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-name="Jihoceska televize" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="Genel",Jihoceska televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-id="KVIFFTV.cz" tvg-name="KVIFF TV" tvg-logo="https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg" group-title="Genel",KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-name="Mnau TV" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="Genel",Mnau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-name="Plzen TV" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="Genel",Plzen TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="Genel",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="Genel",Prima
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-name="Prima Cool" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="Genel",Prima Cool
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-name="Prima Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" group-title="Genel",Prima Krimi
+http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-name="Prima Love" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="Genel",Prima Love
+http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-name="Prima Max" tvg-logo="https://i.imgur.com/ePrdyLi.png" group-title="Genel",Prima Max
+http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-name="Prima Show" tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="Genel",Prima Show
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-name="Prima Star" tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="Genel",Prima Star
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-name="Prima Zoom" tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="Genel",Prima Zoom
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMPlus.cz" tvg-name="RTM+" tvg-logo="https://i.imgur.com/RNdcP2J.png" group-title="Genel",RTM+
+https://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 tvg-id="TelevizePrerov.cz" tvg-name="Televize Prerov" tvg-logo="https://i.imgur.com/opuhDX9.png" group-title="Genel",Televize Prerov
+https://173.212.247.21/live/tvprerov.m3u8
+#EXTINF:-1 tvg-id="TelevizeSeznam.cz" tvg-name="Televize Seznam" tvg-logo="https://i.imgur.com/TpQ8PRb.png" group-title="Genel",Televize Seznam
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TV Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" group-title="Genel",TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="Genel",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-name="TV Noe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png" group-title="Genel",TV Noe
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-name="TV Noe+" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="Genel",TV Noe+
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-id="UpNetwork.cz" tvg-name="Up Network" tvg-logo="https://i.imgur.com/cwlHDjh.png" group-title="Genel",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Genel",UTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-name="Vychodoceska TV" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="Genel",Vychodoceska TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="Haber",CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="Haber",CT24
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Haber",Current Time TV
+http://stream.mcquack.net/384/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="Müzik",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxDance.cz" tvg-name="Music Box Dance" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" group-title="Müzik",Music Box Dance
+http://88.212.15.19/live/mb_dance/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxHits.cz" tvg-name="Music Box Hits" tvg-logo="https://musicboxhits.com/music_box_hits_logo.png" group-title="Müzik",Music Box Hits
+http://88.212.15.19/live/mb_hits/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxSexy.cz" tvg-name="Music Box Sexy" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="Müzik",Music Box Sexy
+http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" group-title="Müzik",Ocko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoBlack.cz" tvg-name="Ocko Black" tvg-logo="https://i.imgur.com/5rw9tWy.png" group-title="Müzik",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Müzik",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Müzik",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Ocko Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" group-title="Müzik",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Müzik",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-name="Slager Muzika" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="Müzik",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-name="Slager Original" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="Müzik",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Spor",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Spor",Eurosport 4K Czechia
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-name="Golf Channel" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Spor",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Spor",Sport1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Spor",Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" group-title="Spor",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png" group-title="Yaşam",TV Paprika
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="YachtingTV.cz" tvg-name="Yachting TV" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Yaşam",Yachting TV
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-name="CT Decko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" group-title="Çocuk",CT Decko
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Çocuk",Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Çocuk",Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Çocuk",Minimax CEE
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Çocuk",Nick Jr.
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Çocuk",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Çocuk",Nicktoons
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8

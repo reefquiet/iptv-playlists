@@ -205,8 +205,6 @@ https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Turk" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="Genel",Show Turk
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-name="Sozcu TV" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="Genel",Sozcu TV
-http://5.178.103.239:55/yt1/szctv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Genel",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="SunRTV.tr" tvg-name="Sun RTV" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Genel",Sun RTV

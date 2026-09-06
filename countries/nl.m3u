@@ -29,8 +29,6 @@ http://86.87.15.10:8008/play/a01k/index.m3u8
 http://86.87.15.10:8008/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="Film1 Premiere" tvg-logo="https://i.imgur.com/Kn9LX8i.png" group-title="Film",Film1 Premiere
 http://86.87.15.10:8008/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="FilmBox.nl" tvg-name="FilmBox" tvg-logo="https://i.imgur.com/VyaslIY.png" group-title="Film",FilmBox
-http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="1AlmereTV.nl" tvg-name="1AlmereTV" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="Genel",1AlmereTV
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-id="1TwenteTV.nl" tvg-name="1Twente TV" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="Genel",1Twente TV

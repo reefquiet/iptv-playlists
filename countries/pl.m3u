@@ -167,8 +167,6 @@ https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 http://193.24.244.60:1001/udp/239.254.4.237:6060
 #EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" group-title="Müzik",Radio RAM
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
-#EXTINF:-1 tvg-id="UltraTV4K.pl" tvg-name="Ultra TV 4K" tvg-logo="https://i.imgur.com/sRtjNdd.png" group-title="Müzik",Ultra TV 4K
-http://45.190.28.50/ULTRA/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Spor",Polsat Sport Premium 1
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Spor",Polsat Sport Premium 2

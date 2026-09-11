@@ -165,6 +165,8 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Müzik",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-name="Radio Romania 3Net" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Müzik",Radio Romania 3Net
+https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Müzik",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Müzik",Rock TV

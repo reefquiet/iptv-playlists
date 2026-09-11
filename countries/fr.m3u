@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-name="CNEWS PRIME" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="Haber",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" group-title="Haber",Euronews English
-http://45.190.28.50/EURONEWS_HD/index.m3u8
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews French" tvg-logo="https://i.imgur.com/5A0Wnrv.png" group-title="Haber",Euronews French
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews German" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Haber",Euronews German

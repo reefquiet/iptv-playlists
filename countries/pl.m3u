@@ -31,8 +31,6 @@ https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Film",FILMBOX+ One
 http://213.91.179.28:8000/play/a06i
-#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" tvg-logo="https://i.imgur.com/qJyjSR6.png" group-title="Genel",Belsat TV
-https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Genel",Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="Genel",BTB 2

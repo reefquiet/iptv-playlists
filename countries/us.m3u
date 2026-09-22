@@ -939,7 +939,7 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-name="AsianCrush" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Eğlence",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" group-title="Eğlence",AXN White
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Eğlence",AXN White
 http://85.14.32.26:8800/udp/239.100.10.18:5000
 #EXTINF:-1 tvg-id="BarkTV.us" tvg-name="Bark TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/6a233007201fda6808a47ff9/f4f45cba-d340-4963-860a-37edaf91bc7f/BarkTV_Horizontal_Color.png" group-title="Eğlence",Bark TV
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
@@ -1091,7 +1091,7 @@ https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="Eğlence",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-#EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png" group-title="Eğlence",MTV Reality
+#EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="Eğlence",MTV Reality
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-name="MTV Ridiculousness" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Eğlence",MTV Ridiculousness
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8

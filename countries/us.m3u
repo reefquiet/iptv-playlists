@@ -1673,8 +1673,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVTVChannel194.us" tvg-name="CVTV Channel 194" tvg-logo="https://i.imgur.com/loGNYCc.png" group-title="Genel",CVTV Channel 194
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" tvg-name="CW" tvg-logo="https://i.imgur.com/cloRdgC.png" group-title="Genel",CW
-https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" tvg-logo="https://i.imgur.com/vOvoHBC.png" group-title="Genel",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-name="DC Council Hearing Room 120" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="Genel",DC Council Hearing Room 120

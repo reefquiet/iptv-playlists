@@ -7,10 +7,16 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Belgesel",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Belgesel",History
+https://racitonsen.s.gy/HISTORY_PL
+#EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Belgesel",History 2
+https://racitonsen.s.gy/H2_PL
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Belgesel",Polsat Viasat History
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Din",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="Dizi",TVP Seriale
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Eğlence",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-name="ATM Rozrywka REWORK" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="Eğlence",ATM Rozrywka REWORK
@@ -21,6 +27,8 @@ https://bsmbialogard.pl/live/index.m3u8
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Eğlence",Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-name="FILMBOX+ Action" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Film",FILMBOX+ Action
+https://racitonsen.s.gy/FB_ACTION_PL
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Film",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Film",FILMBOX+ Emotion
@@ -33,8 +41,12 @@ https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Film",FILMBOX+ One
 http://213.91.179.28:8000/play/a06i
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="https://i.imgur.com/lbl8K23.png" group-title="Film",Kino Polska
+https://racitonsen.s.gy/KINO_POLSKA
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Genel",Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="Genel",BTB
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="Genel",BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" tvg-logo="https://i.imgur.com/Z193940.png" group-title="Genel",BTB 3
@@ -57,10 +69,12 @@ https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="Genel",Polsat
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
-#EXTINF:-1 tvg-id="Polsat1.pl" tvg-name="Polsat 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png" group-title="Genel",Polsat 1
-https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Cafe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="Genel",Polsat Cafe
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" tvg-logo="https://i.imgur.com/OSCrBvh.png" group-title="Genel",Polsat Games
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/500px-Polsat_Play_2021_gradient.svg.png" group-title="Genel",Polsat Play
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="Genel",Polsat Sport 1
 http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
 #EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Genel",Puls 2
@@ -107,10 +121,16 @@ https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/tr
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="Genel",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png" group-title="Genel",TVP HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="Genel",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="Genel",TVP Kultura
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="Genel",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Genel",TVP Rozrywka
+http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Genel",TVP1
 https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
 #EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Genel",TVT
@@ -131,6 +151,8 @@ https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="Haber",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxPolska.pl" tvg-name="Newsmax Polska" tvg-logo="https://i.imgur.com/2NhPCrY.png" group-title="Haber",Newsmax Polska
+http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
 #EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="Haber",Polsat News
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png" group-title="Haber",Polsat News 2
@@ -145,6 +167,14 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="Müzik",Disco Polo Music
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" tvg-logo="https://i.imgur.com/o0Fg19Q.png" group-title="Müzik",Eska Rock TV
+http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" tvg-logo="https://i.imgur.com/N0eH0Cg.png" group-title="Müzik",Eska TV
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra" tvg-logo="https://i.imgur.com/pZAFshQ.png" group-title="Müzik",Eska TV Extra
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="https://i.imgur.com/lE1IlPQ.png" group-title="Müzik",Kino Polska Muzyka
+https://racitonsen.s.gy/KINO_POLSKA_MUZYKA
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-name="Music Box Polska" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10" group-title="Müzik",Music Box Polska
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
 #EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" group-title="Müzik",Radio RAM
@@ -153,6 +183,8 @@ https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Çocuk",4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Çocuk",CBeebies
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Çocuk",Disney Channel
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Çocuk",Disney XD

@@ -29,6 +29,8 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" group-title="Eğlence",Antena Stars
 https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" tvg-logo="https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png" group-title="Eğlence",Asia Express NonStop
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="Eğlence",Happy Channel
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 #EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" tvg-logo="https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png" group-title="Eğlence",Insula non stop
@@ -42,7 +44,7 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Film",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Film",Film Now
-https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Film",Pro Cinema
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Genel",A7TV
@@ -57,6 +59,10 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Genel",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="Digi Life" tvg-logo="https://i.imgur.com/YhKpUkd.png" group-title="Genel",Digi Life
+https://dokagents.site/live/digilife/mono.m3u8
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="https://i.imgur.com/pGICS9K.png" group-title="Genel",Digi World
+https://dokagents.site/live/digiworld/mono.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" tvg-logo="https://i.imgur.com/jzhZ8kl.png" group-title="Genel",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Genel",HD365 TV
@@ -101,6 +107,8 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Genel",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Genel",Romania TV
+https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Genel",Tele7ABC HD
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-name="TeleM Botosani" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Genel",TeleM Botosani
@@ -212,13 +220,15 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Spor",Digi Sport 1
-https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+https://dokagents.site/live/digisport1/mono.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Spor",Digi Sport 2
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Spor",Digi Sport 3
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Spor",Digi Sport 4
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" group-title="Spor",Prima Sport 5
+https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Yaşam",Antena Monden

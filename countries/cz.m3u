@@ -87,6 +87,8 @@ http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Haber",Current Time TV
 http://stream.mcquack.net/384/index.m3u8
+#EXTINF:-1 tvg-id="MusicBox80s.cz" tvg-name="Music Box 80s" tvg-logo="https://musicboxtv.net/logo_music_box_80s.png" group-title="Müzik",Music Box 80s
+http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="Müzik",Music Box Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz" tvg-name="Music Box Dance" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" group-title="Müzik",Music Box Dance

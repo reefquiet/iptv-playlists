@@ -1247,6 +1247,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Film",Cinecanal
 http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="Cinemax Action" tvg-logo="https://i.ibb.co/6JL79rbZ/IMG-2472.png" group-title="Film",Cinemax Action
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="Cinemax Classics" tvg-logo="https://i.ibb.co/m5yymtMw/IMG-2478.png" group-title="Film",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" tvg-logo="https://i.ibb.co/Kp7m2G19/IMG-2477.png" group-title="Film",Cinemax Hits
@@ -1289,6 +1291,8 @@ https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="HBODrama.us" tvg-name="HBO Drama" tvg-logo="https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg" group-title="Film",HBO Drama
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="Film",HBO Hits
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="Film",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us" tvg-name="ICC plus" group-title="Film",ICC plus
@@ -1685,6 +1689,8 @@ https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="DetroitChannel68.us" tvg-name="Detroit Channel 68" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="Genel",Detroit Channel 68
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Genel",Discovery Turbo
+https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Genel",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" tvg-logo="https://i.imgur.com/1fC7tqH.png" group-title="Genel",Diya TV

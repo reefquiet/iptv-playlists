@@ -17,18 +17,28 @@ http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="Dizi",TVP Seriale
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica" tvg-logo="https://i.imgur.com/0gCNnLq.png" group-title="Eğlence",13 Ulica
+http://57.128.231.171:8080/325/index.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Eğlence",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-name="ATM Rozrywka REWORK" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="Eğlence",ATM Rozrywka REWORK
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" group-title="Eğlence",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Eğlence",Crime + Investigation Polsat
+http://57.128.231.171:8080/285/index.m3u8
+#EXTINF:-1 tvg-id="E.pl" tvg-name="E!" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Eğlence",E!
+http://57.128.231.171:8080/273/index.m3u8
+#EXTINF:-1 tvg-id="Fox.pl" tvg-name="Fox" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Eğlence",Fox
+http://57.128.231.171:8080/249/index.m3u8
 #EXTINF:-1 tvg-id="PolsatReality.pl" tvg-name="Polsat Reality" tvg-logo="https://i.imgur.com/yBecqPa.png" group-title="Eğlence",Polsat Reality
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Eğlence",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Eğlence",Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-name="AXN Poland" tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="Film",AXN Poland
+https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-name="FILMBOX+ Action" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Film",FILMBOX+ Action
 https://racitonsen.s.gy/FB_ACTION_PL
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Film",FILMBOX+ Comedy
@@ -47,6 +57,8 @@ http://213.91.179.28:8000/play/a06i
 https://racitonsen.s.gy/KINO_POLSKA
 #EXTINF:-1 tvg-id="PolsatFilm2.pl" tvg-name="Polsat Film 2" tvg-logo="https://i.imgur.com/19aDJjn.png" group-title="Film",Polsat Film 2
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureTV.pl" tvg-name="Adventure TV" tvg-logo="https://i.imgur.com/VQVr4Nk.png" group-title="Genel",Adventure TV
+http://57.128.231.171:8080/320/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Genel",Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" tvg-logo="https://i.imgur.com/U8mcRal.png" group-title="Genel",BTB
@@ -169,6 +181,8 @@ https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
 https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
 #EXTINF:-1 tvg-id="TVPWorld.pl" tvg-name="TVP World" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Haber",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://i.imgur.com/6GOWgtE.png" group-title="Komedi",Polsat Comedy Central Extra
+http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Müzik",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="BTBMusic.pl" tvg-name="BTB Music" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" group-title="Müzik",BTB Music

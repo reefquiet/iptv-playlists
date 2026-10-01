@@ -41,6 +41,8 @@ https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Film",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 tvg-id="CineMaraton.ro" tvg-name="CineMaraton" tvg-logo="https://i.imgur.com/BY8UZa0.png" group-title="Film",CineMaraton
+https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Film",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Film",Film Now
@@ -228,9 +230,9 @@ https://dokagents.site/live/digisport1/mono.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Spor",Digi Sport 2
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Spor",Digi Sport 3
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+https://dokagents.site/live/digisport3/mono.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Spor",Digi Sport 4
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
+https://dokagents.site/live/digisport4/mono.m3u8
 #EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" group-title="Spor",Prima Sport 5
 https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva

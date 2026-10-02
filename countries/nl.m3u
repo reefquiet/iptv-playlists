@@ -93,6 +93,10 @@ https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-name="NOOS TV" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="Genel",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="https://i.imgur.com/HEtJEBa.png" group-title="Genel",NPO 1
+https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="https://i.imgur.com/wmqaoXS.png" group-title="Genel",NPO 2
+https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8
 #EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="https://i.imgur.com/lKcFUqi.png" group-title="Genel",NPO 3
 https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Genel",Omroep Brabant

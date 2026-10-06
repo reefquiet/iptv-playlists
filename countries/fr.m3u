@@ -33,6 +33,8 @@ http://145.239.5.177/332/index.m3u8
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Eğlence",C Star
 http://145.239.5.177/361/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Eğlence",Canal+
+http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Eğlence",M6
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Eğlence",MTV
@@ -111,6 +113,8 @@ https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IranNama.fr" tvg-name="Iran Nama" group-title="Genel",Iran Nama
 https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Genel",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="Genel",Le Figaro TV Ile-de-France
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Genel",MDL
@@ -233,8 +237,12 @@ https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png" group-title="Haber",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+#EXTINF:-1 tvg-id="Europe1TV.fr" tvg-name="Europe 1 TV" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" group-title="Haber",Europe 1 TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" group-title="Haber",France 24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="Haber",Franceinfo
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="Haber",LCI
 http://145.239.5.177/368/index.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="Haber",RT France
@@ -355,6 +363,8 @@ http://41.205.93.154/OKOO/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Çocuk",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="Çocuk",Nicktoons
+http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Çocuk",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTeen.fr" tvg-name="Persiana Teen" group-title="Çocuk",Persiana Teen

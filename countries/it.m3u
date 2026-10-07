@@ -491,8 +491,6 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/MfFOnJp.png" group-title="Yaşam",Alma TV
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="Class TV Moda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png" group-title="Yaşam",Class TV Moda
-https://racitonsen.s.gy/CLASS_TV_MODA
 #EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" tvg-logo="https://i.imgur.com/x5cwb1q.png" group-title="Yemek",Gambero Rosso Channel
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" group-title="Çocuk",BeJoy.kids

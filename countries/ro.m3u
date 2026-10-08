@@ -199,6 +199,8 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Komedi",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="PrimaComedy.ro" tvg-name="Prima Comedy" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png" group-title="Komedi",Prima Comedy
+https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Kültür",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Müzik",Atomic Academy TV

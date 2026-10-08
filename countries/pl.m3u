@@ -39,8 +39,6 @@ http://57.128.231.171:8080/227/index.m3u8
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Eğlence",Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-name="AXN Poland" tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="Film",AXN Poland
-https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Film",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Film",FILMBOX+ Emotion

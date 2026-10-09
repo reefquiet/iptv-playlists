@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg" group-title="Animasyon",Minimax
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-#EXTINF:-1 tvg-id="History.ro" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Belgesel",History
-https://dokagents.site/live/history/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Belgesel",National Geographic
 https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",National Geographic Wild
@@ -45,15 +43,13 @@ https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Film",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="CineMaraton.ro" tvg-name="CineMaraton" tvg-logo="https://i.imgur.com/BY8UZa0.png" group-title="Film",CineMaraton
-https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Film",Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Film",Film Now
 https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" tvg-logo="https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png" group-title="Film",Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Film",Pro Cinema
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521" group-title="Film",Pro Cinema
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Genel",A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
@@ -67,10 +63,6 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="Genel",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="Digi Life" tvg-logo="https://i.imgur.com/YhKpUkd.png" group-title="Genel",Digi Life
-https://dokagents.site/live/digilife/mono.m3u8
-#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World" tvg-logo="https://i.imgur.com/pGICS9K.png" group-title="Genel",Digi World
-https://dokagents.site/live/digiworld/mono.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" tvg-logo="https://i.imgur.com/jzhZ8kl.png" group-title="Genel",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit TV" tvg-logo="https://i.imgur.com/sTy4FHs.png" group-title="Genel",Favorit TV
@@ -97,19 +89,19 @@ https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="Genel",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus" tvg-logo="https://i.imgur.com/VxBdga3.png" group-title="Genel",National 24 Plus
+#EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124" group-title="Genel",National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="https://i.imgur.com/KHzUIwG.png" group-title="Genel",National TV
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/National_TV_2025.png" group-title="Genel",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Genel",Nova TV Brasov
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/p2umWAT.png" group-title="Genel",Prima TV
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
-#EXTINF:-1 tvg-id="ProArena.ro" tvg-name="Pro Arena" tvg-logo="https://i.imgur.com/KQmB9Cc.png" group-title="Genel",Pro Arena
+#EXTINF:-1 tvg-id="ProArena.ro" tvg-name="Pro Arena" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PRO_Arena_Logo_%282022-present%29.svg/960px-PRO_Arena_Logo_%282022-present%29.svg.png" group-title="Genel",Pro Arena
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
-#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Genel",PRO TV
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Pro_TV_Aug_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250810105837" group-title="Genel",PRO TV
 http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
-#EXTINF:-1 tvg-id="PROTVInternational.ro" tvg-name="PRO TV International" tvg-logo="https://i.imgur.com/vfr1ZYw.png" group-title="Genel",PRO TV International
+#EXTINF:-1 tvg-id="PROTVInternational.ro" tvg-name="PRO TV International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/PRO_TV_Interna%C8%9Bional_%282017%29.svg/revision/latest/scale-to-width-down/1000?cb=20220821114700" group-title="Genel",PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-name="PROFI 24 TV" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="Genel",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
@@ -127,8 +119,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSecon
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Genel",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="Genel",Romania TV
-https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf TV" tvg-logo="https://i.imgur.com/0iuwjbK.png" group-title="Genel",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Genel",Tele7ABC HD
@@ -169,7 +159,7 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="Genel",TVSat
 http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="VPTV.ro" tvg-name="VP TV" group-title="Genel",VP TV
+#EXTINF:-1 tvg-id="VPTV.ro" tvg-name="VP TV" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" group-title="Genel",VP TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" tvg-logo="https://i.imgur.com/qPRQZMI.png" group-title="Haber",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
@@ -185,9 +175,9 @@ https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="Observator News" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="Haber",Observator News
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" tvg-logo="https://i.imgur.com/wlqGfU2.png" group-title="Haber",Prima News
+#EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="Haber",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="Haber",PROTV News
+#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" group-title="Haber",PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="TeleMoldovaPlus.ro" tvg-name="TeleMoldova +" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="Haber",TeleMoldova +
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
@@ -199,8 +189,6 @@ https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Komedi",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1 tvg-id="PrimaComedy.ro" tvg-name="Prima Comedy" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png" group-title="Komedi",Prima Comedy
-https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Kültür",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Müzik",Atomic Academy TV
@@ -235,9 +223,9 @@ https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
 https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 #EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Müzik",Mooz Ro!
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" tvg-logo="https://i.imgur.com/nadVCxM.png" group-title="Müzik",Music Channel
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Music_Channel_2016.svg/revision/latest/scale-to-width-down/1000?cb=20220521103337" group-title="Müzik",Music Channel
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="PartyMix.ro" tvg-name="Party Mix" tvg-logo="https://i.imgur.com/leF8AGo.png" group-title="Müzik",Party Mix
+#EXTINF:-1 tvg-id="PartyMix.ro" tvg-name="Party Mix" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Müzik",Party Mix
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Müzik",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
@@ -256,15 +244,9 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Spor",Digi Sport 1
-https://dokagents.site/live/digisport1/mono.m3u8
+https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Spor",Digi Sport 2
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
-#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Spor",Digi Sport 3
-https://dokagents.site/live/digisport3/mono.m3u8
-#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Spor",Digi Sport 4
-https://dokagents.site/live/digisport4/mono.m3u8
-#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" group-title="Spor",Prima Sport 5
-https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Spor",Voyo Sport 1

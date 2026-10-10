@@ -139,6 +139,10 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" tvg-logo="https://i.imgur.com/R4sqZQu.png" group-title="Genel",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" group-title="Genel",LA7
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" tvg-logo="https://i.imgur.com/khPweok.png" group-title="Genel",La7 Cinema
+http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 tvg-id="LA7d.it" tvg-name="LA7d" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Genel",LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it" tvg-name="Lazio TV" tvg-logo="https://i.imgur.com/TNLD9yD.png" group-title="Genel",Lazio TV

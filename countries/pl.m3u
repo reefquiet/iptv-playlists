@@ -53,6 +53,8 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 http://213.91.179.28:8000/play/a06i
 #EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska" tvg-logo="https://i.imgur.com/lbl8K23.png" group-title="Film",Kino Polska
 http://57.128.231.171:8080/238/index.m3u8
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="Film",Polsat Film
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 tvg-id="AdventureTV.pl" tvg-name="Adventure TV" tvg-logo="https://i.imgur.com/VQVr4Nk.png" group-title="Genel",Adventure TV
 http://57.128.231.171:8080/320/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Genel",Bigtime

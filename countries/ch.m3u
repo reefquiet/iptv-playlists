@@ -35,10 +35,6 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="RhoneTV.ch" tvg-name="Rhone TV" tvg-logo="https://i.imgur.com/YyXJaBN.png" group-title="Genel",Rhone TV
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="Genel",RSI La 2
-https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:-1 tvg-id="SRFzwei.ch" tvg-name="SRF zwei" tvg-logo="https://i.imgur.com/887SKjm.png" group-title="Genel",SRF zwei
-https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://i.imgur.com/oFiixzK.png" group-title="Genel",Tele M1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Genel",TeleTicino

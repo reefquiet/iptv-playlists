@@ -327,6 +327,10 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Spor",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Spor",Eurosport 1
+http://88.212.15.17/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Spor",Eurosport 2
+http://88.212.15.17/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="FootPlus.fr" tvg-name="Foot+" tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="Spor",Foot+
 http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Golf +" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Spor",Golf +
@@ -335,8 +339,6 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1 tvg-id="PersianaFight.fr" tvg-name="Persiana Fight" group-title="Spor",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/NsFTG7u.png" group-title="Spor",RMC Sport 1
-https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Spor",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia" tvg-logo="https://i.imgur.com/ucTh9tO.png" group-title="Yaşam",FashionTV Asia

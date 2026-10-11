@@ -14,7 +14,7 @@ https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3
 #EXTINF:-1 tvg-id="Okto.at" tvg-name="Okto" tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Genel",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg" group-title="Genel",ORF 1
-https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="Genel",ORF 2
 https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
 #EXTINF:-1 tvg-id="P3tv.at" tvg-name="P3tv" tvg-logo="https://i.imgur.com/qUOFiEe.png" group-title="Genel",P3tv

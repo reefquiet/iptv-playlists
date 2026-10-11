@@ -498,7 +498,7 @@ https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Genel",ProSieben
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" group-title="Genel",ProSieben Maxx
-http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
+https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-name="PUNKTum Fernsehen" tvg-logo="https://i.imgur.com/3yamOmw.png" group-title="Genel",PUNKTum Fernsehen
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-name="Radio Bremen Fernsehen" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="Genel",Radio Bremen Fernsehen
@@ -709,12 +709,12 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.de" tvg-name="Pluto TV Sport" tvg-logo="https://i.imgur.com/y22ElOr.png" group-title="Spor",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
-#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-name="Sportdigital FUSSBALL" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="Spor",Sportdigital FUSSBALL
-https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Spor",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Yaşam",Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" group-title="Yaşam",DMAX
+http://5.180.164.197:8080/DMAX/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDiseno.de" tvg-name="Pluto TV Diseno" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Yaşam",Pluto TV Diseno
 https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" tvg-logo="https://i.imgur.com/uvk27Fe.png" group-title="Yaşam",Pluto TV Real Life

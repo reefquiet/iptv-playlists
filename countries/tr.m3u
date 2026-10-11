@@ -239,8 +239,6 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Genel",TV 1
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" group-title="Genel",TV 100
-https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
 #EXTINF:-1 tvg-id="TV264.tr" tvg-name="TV 264" tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="Genel",TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Genel",TV 4

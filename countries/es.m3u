@@ -246,7 +246,7 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Genel",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1
-https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1 Catalunya
@@ -479,12 +479,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Spor",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-#EXTINF:-1 tvg-id="DeportesporMovistarPlusPlus.es" tvg-name="Deportes por Movistar Plus+" group-title="Spor",Deportes por Movistar Plus+
-https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Spor",Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Spor",Liga de Campeones por Movistar Plus+
-https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
 #EXTINF:-1 tvg-id="OlympicChannel.es" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/wPQVVtj.png" group-title="Spor",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spor",Real Madrid TV

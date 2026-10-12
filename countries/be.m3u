@@ -47,6 +47,14 @@ https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6
 https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
 #EXTINF:-1 tvg-id="Vedia.be" tvg-name="Vedia" tvg-logo="https://i.imgur.com/7LnH6yu.png" group-title="Genel",Vedia
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8
+#EXTINF:-1 tvg-id="VTM.be" tvg-name="VTM" tvg-logo="https://i.imgur.com/N3nwyDd.png" group-title="Genel",VTM
+https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
+#EXTINF:-1 tvg-id="VTM2.be" tvg-name="VTM 2" tvg-logo="https://i.imgur.com/kYBHMlw.png" group-title="Genel",VTM 2
+https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8
+#EXTINF:-1 tvg-id="VTM3.be" tvg-name="VTM 3" tvg-logo="https://i.imgur.com/vY6892N.png" group-title="Genel",VTM 3
+https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
+#EXTINF:-1 tvg-id="VTM4.be" tvg-name="VTM 4" tvg-logo="https://i.imgur.com/vabFMLq.png" group-title="Genel",VTM 4
+https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
 #EXTINF:-1 tvg-id="WTV.be" tvg-name="WTV" tvg-logo="https://i.imgur.com/wvKe8mi.png" group-title="Genel",WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HLNLive.be" tvg-name="HLN Live" tvg-logo="https://i.ibb.co/zbCrZG9/hq-hln.png" group-title="Haber",HLN Live

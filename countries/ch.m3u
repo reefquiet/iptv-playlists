@@ -57,3 +57,5 @@ https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-name="SKI TV" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Spor",SKI TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="NickSchweiz.ch" tvg-name="Nick Schweiz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png" group-title="Çocuk",Nick Schweiz
+https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts

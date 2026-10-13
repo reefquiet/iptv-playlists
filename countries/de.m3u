@@ -191,6 +191,8 @@ http://83.228.75.166:8000/play/a0aq
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-name="Curiosity Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" group-title="Eğitim",Curiosity Channel
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Eğitim",Da Vinci Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 tvg-id="iSTUFF.de" tvg-name="iSTUFF" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" group-title="Eğitim",iSTUFF
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Eğitim",NRWision

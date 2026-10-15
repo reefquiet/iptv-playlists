@@ -5,8 +5,6 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Alışveriş",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animasyon",Cartoon Network
-https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073
 #EXTINF:-1 tvg-id="Italiana.it" tvg-name="Italiana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" group-title="Belgesel",Italiana
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="GiovanniPaoloTV.it" tvg-name="Giovanni Paolo TV" group-title="Din",Giovanni Paolo TV
@@ -509,6 +507,8 @@ https://stream.paroledivita.org/bejoy.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Çocuk",Nick Jr.
 http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Çocuk",Nickelodeon
+https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg" group-title="Çocuk",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg" group-title="İş",Class CNBC

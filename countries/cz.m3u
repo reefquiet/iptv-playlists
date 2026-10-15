@@ -31,6 +31,8 @@ http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
 http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="Kino Barrandov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" group-title="Film",Kino Barrandov
 http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.cz" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" group-title="Film",Warner TV
+http://88.212.15.17/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Genel",Animal Planet
 http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Ballcasterz.cz" tvg-name="Ballcasterz" tvg-logo="https://web02.antik.sk/assets/img/channels/59cd3407a28c122f4abbc7b01eff7a0c.svg" group-title="Genel",Ballcasterz

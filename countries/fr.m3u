@@ -123,8 +123,6 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Genel",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="Paris Premiere" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="Genel",Paris Premiere
-http://193.254.245.162/PARIS-PREMIERE/index.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="Genel",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFM TV" tvg-logo="https://i.imgur.com/FVDTJxW.png" group-title="Genel",RFM TV
@@ -264,7 +262,7 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Müzik",M6 Music
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Müzik",MCM Pop
-http://193.254.245.162/MCM/index.m3u8
+http://188.115.15.121:8000/play/a014
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Müzik",Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Müzik",Mezzo Live
@@ -367,8 +365,6 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Çocuk",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.fr" tvg-name="Nicktoons" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="Çocuk",Nicktoons
-http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Çocuk",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTeen.fr" tvg-name="Persiana Teen" group-title="Çocuk",Persiana Teen

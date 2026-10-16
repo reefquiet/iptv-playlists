@@ -723,6 +723,8 @@ https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVViaggi.de" tvg-name="Pluto TV Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png" group-title="Yaşam",Pluto TV Viaggi
 https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Yaşam",TLC
+https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-name="Pluto TV Cocina" tvg-logo="https://i.imgur.com/LRtfQla.png" group-title="Yemek",Pluto TV Cocina
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" tvg-logo="https://i.imgur.com/cwkrxcS.png" group-title="Yemek",Pluto TV Cucina

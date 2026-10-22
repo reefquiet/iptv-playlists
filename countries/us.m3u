@@ -8,7 +8,7 @@ https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" group-title="Aile",Dove Channel
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="Aile",Hallmark Channel
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Aile",HBO Family Latin America
 http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us" tvg-name="Positiv TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VIzSua00Fkp3YfEiAsIKjZ6qSysSCEp8Ng&s" group-title="Aile",Positiv TV
@@ -1045,6 +1045,8 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="Eğlence",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png" group-title="Eğlence",FX
+https://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Eğlence",FX Latin America
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="GalxyTV.us" tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/7gZlQDn.png" group-title="Eğlence",Galxy TV
@@ -1239,6 +1241,8 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-name="American Horrors" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="Film",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="AneflixLive.us" tvg-name="Aneflix Live" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" group-title="Film",Aneflix Live
+https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Film",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AVIRewind.us" tvg-name="AVI Rewind" tvg-logo="https://zplay.cl/LogosV2/AVIREWINDS_NEW.png" group-title="Film",AVI Rewind
@@ -1357,6 +1361,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineKids.us" tvg-name="Maxcine Kids" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="Film",Maxcine Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaExtrenoHD.us" tvg-name="Mega Extreno HD" tvg-logo="https://cdn.vaughnsoft.net/profile/1792355588/mega_extremo.jpg" group-title="Film",Mega Extreno HD
+https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv
 #EXTINF:-1 tvg-id="Moviedome.us" tvg-name="Moviedome" tvg-logo="https://i.imgur.com/8c54ycg.png" group-title="Film",Moviedome
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="Movies.us" tvg-name="Movies!" tvg-logo="https://static.moviestvnetwork.com/images/fran_modal/franchise_modal_marquee_wide_v2.jpg" group-title="Film",Movies!
@@ -2895,6 +2901,8 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Spor",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/35bddzKR/IMG-2281.png" group-title="Spor",Fox Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Spor",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Spor",Fubo Sports Network

@@ -301,8 +301,6 @@ http://92.114.85.87:8016/play/a00b/index.m3u8
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Spor",TVP Sport
 http://57.128.210.196:8080/134/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Yaşam",HGTV
-http://57.128.231.171:8080/241/index.m3u8
 #EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" tvg-logo="https://i.imgur.com/BEs160o.png" group-title="Yaşam",Nuta Gold
 http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Yemek",Canal+ Kuchnia

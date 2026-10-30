@@ -505,6 +505,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Spor",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" group-title="Spor",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Spor",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia 24" tvg-logo="https://i.imgur.com/RSwnoLn.png" group-title="Spor",Sportitalia 24

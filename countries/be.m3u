@@ -37,6 +37,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-name="Telesambre" tvg-logo="https://i.imgur.com/TuIAkA3.png" group-title="Genel",Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Genel",Tipik
+http://41.205.93.154/TIPIK/index.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/ljbdWkC.png" group-title="Genel",TV Lux
 https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8
 #EXTINF:-1 tvg-id="TVcom.be" tvg-name="TVcom" tvg-logo="https://i.imgur.com/3KuRD19.png" group-title="Genel",TVcom

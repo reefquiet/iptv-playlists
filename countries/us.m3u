@@ -1039,6 +1039,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
 #EXTINF:-1 tvg-id="Enelpuntodemira.us" tvg-name="En el punto de mira" tvg-logo="https://i.imgur.com/E9grXd9.png" group-title="Eğlence",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+#EXTINF:-1 tvg-id="ESTV.us" tvg-name="ES.TV" tvg-logo="https://i.imgur.com/ihY01ao.png" group-title="Eğlence",ES.TV
+https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Eğlence",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Eğlence",Estrella TV
@@ -1083,7 +1085,7 @@ https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="IONTV.us" tvg-name="ION TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSmnYsts3yvFitiy9hspQUKgqp9mThaxVh0f4IDP12KZR52nEzg6UFmnycSjSJvA8kSA&usqp=CAU" group-title="Eğlence",ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central TV" tvg-logo="https://i.imgur.com/peuHszg.png" group-title="Eğlence",Justice Central TV
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central.TV" tvg-logo="https://i.imgur.com/peuHszg.png" group-title="Eğlence",Justice Central.TV
 https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-name="K-Content by CJ ENM" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="Eğlence",K-Content by CJ ENM
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
@@ -2023,8 +2025,6 @@ https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" tvg-logo="https://i.imgur.com/l7tmTjX.png" group-title="Genel",Real America's Voice
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="Recipe TV" tvg-logo="https://i.imgur.com/HcL4a8z.png" group-title="Genel",Recipe TV
-https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RevandRoll.us" tvg-name="Rev and Roll" group-title="Genel",Rev and Roll
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://i.imgur.com/eaYnGpH.png" group-title="Genel",Revolt
@@ -2587,7 +2587,7 @@ https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Komedi",Comedy Dynamics
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="Komedi",Comedy TV
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy.TV" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="Komedi",Comedy.TV
 https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Daria.us" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="Komedi",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
@@ -2735,6 +2735,8 @@ https://livestream.liveone.com/lc1/p1.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-name="Metaleitor TV" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" group-title="Müzik",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-name="Mi Musica Hits" tvg-logo="https://i.imgur.com/z9MlLFL.png" group-title="Müzik",Mi Musica Hits
+http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us" tvg-name="Mi Musica Reggaeton" tvg-logo="https://i.imgur.com/MMb9u4u.png" group-title="Müzik",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-name="Mi Musica Romantica" tvg-logo="https://i.imgur.com/eIaRv0U.png" group-title="Müzik",Mi Musica Romantica
@@ -3117,6 +3119,8 @@ https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/p
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKFOOD.us" tvg-name="Pluto TV KFOOD" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Yemek",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="Recipe.TV" tvg-logo="https://i.imgur.com/HcL4a8z.png" group-title="Yemek",Recipe.TV
+https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Yemek",Tastemade
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrasil.us" tvg-name="Tastemade Brasil" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Yemek",Tastemade Brasil

@@ -314,7 +314,7 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Spor",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Spor",Eurosport 1
-http://88.212.7.14/live/esp1_hun/index.m3u8
+http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Spor",Eurosport 2
 http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Golf +" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Spor",Golf +

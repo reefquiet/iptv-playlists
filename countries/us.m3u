@@ -1290,7 +1290,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-name="Cine Romantico" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Film",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Film",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+http://186.148.196.82:8001/play/a0a4
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-name="Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Film",Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Film",Cinecanal
@@ -2897,11 +2897,11 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-name="ESPN 4 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Spor",ESPN 4 Latin America
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Spor",ESPN 5 Latin America
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-name="ESPN 5 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="Spor",ESPN 5 Latin America
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us" tvg-name="ESPN 6 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Spor",ESPN 6 Latin America
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us" tvg-name="ESPN 6 Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="Spor",ESPN 6 Latin America
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us" tvg-name="ESPN 7 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Spor",ESPN 7 Latin America
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us" tvg-name="ESPN 7 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="Spor",ESPN 7 Latin America
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Spor",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8

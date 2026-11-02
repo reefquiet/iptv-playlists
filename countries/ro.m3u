@@ -39,8 +39,6 @@ https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Film",Bollywood Classic
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
-#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Film",Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Film",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Film",Cinemaraton Plus
@@ -249,10 +247,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Müzik",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Müzik",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Müzik",Mooz Ro!
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" group-title="Müzik",Orizont TV
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro" tvg-name="Party Mix" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Müzik",Party Mix
@@ -263,8 +257,12 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Müzik",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
+#EXTINF:-1 tvg-id="RadioZU.ro" tvg-name="Radio ZU" tvg-logo="https://radiozu.ro/img/logo-zu.png" group-title="Müzik",Radio ZU
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Müzik",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RomanticFM.ro" tvg-name="Romantic FM" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" group-title="Müzik",Romantic FM
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="Müzik",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="Müzik",Super TV
@@ -283,12 +281,12 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Spor",AntenaPlay Events
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Spor",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" group-title="Spor",NHL AntenaPlay
 https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Spor",Sport Extra
-https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Spor",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Yaşam",Antena Monden

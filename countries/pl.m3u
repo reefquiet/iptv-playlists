@@ -206,9 +206,9 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Genel",TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Genel",TVP1
-http://92.114.85.87:8009/play/a009/index.m3u8
+https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Genel",TVP2
-http://57.128.210.196:8080/143/index.m3u8
+https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Genel",TVS
 http://92.114.85.87:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Genel",TVT

@@ -41,6 +41,8 @@ http://213.91.179.28:8000/play/a05i
 http://212.70.131.37:8000/play/a08b
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" tvg-logo="https://i.imgur.com/t9vVTLH.png" group-title="Film",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg" tvg-name="CineStar Action Bulgaria" tvg-logo="https://i.imgur.com/bTf7A9J.png" group-title="Film",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema" group-title="Film",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova" tvg-logo="https://i.imgur.com/hMqEY0J.png" group-title="Film",Kino Nova

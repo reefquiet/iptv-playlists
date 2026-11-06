@@ -28,13 +28,13 @@ https://live-fi.tvkaista.net/nelonen/live.m3u8
 #EXTINF:-1 tvg-id="OnniTV.fi" tvg-name="Onni TV" tvg-logo="https://i.imgur.com/Vba4jUk.png" group-title="Genel",Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARChannel.fi" tvg-name="STAR Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Genel",STAR Channel
-https://live-fi.tvkaista.net/star-channel/live.m3u8
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-name="Yle Teema & Fem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="Genel",Yle Teema & Fem
-https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 #EXTINF:-1 tvg-id="YleTV1.fi" tvg-name="Yle TV1" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="Genel",Yle TV1
-https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-id="YleTV2.fi" tvg-name="Yle TV2" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="Genel",Yle TV2
-https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-name="MTV Uutiset" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="Haber",MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="NopolaNews.fi" tvg-name="Nopola News" tvg-logo="https://i.imgur.com/vDoQaGl.png" group-title="Haber",Nopola News

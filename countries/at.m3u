@@ -4,7 +4,7 @@ https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KITTV.at" tvg-name="KIT-TV" tvg-logo="https://i.imgur.com/5rDo1Za.png" group-title="Din",KIT-TV
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="Film",ServusTV
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+https://s6.hopslan.com/servuz1/index.m3u8
 #EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" tvg-logo="https://i.imgur.com/1pA0Tid.png" group-title="Genel",ATV
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Genel",FS1 Salzburg

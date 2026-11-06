@@ -64,7 +64,7 @@ https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="Genel",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 #EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="https://i.imgur.com/l47z7gw.png" group-title="Genel",bTV
-http://213.91.179.28:8000/play/a03w
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:-1 tvg-id="Eurocom.bg" tvg-name="Eurocom" group-title="Genel",Eurocom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova" tvg-logo="https://i.imgur.com/WCsPSLX.png" group-title="Genel",Nova
@@ -122,11 +122,11 @@ https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Yaşam",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Çocuk",Disney Channel
-http://213.91.179.28:8000/play/a059
+http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" group-title="Çocuk",EKids
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Çocuk",Nickelodeon
-http://213.91.179.28:8000/play/a056
+http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Çocuk",RING
 http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://i.imgur.com/cHwOVqk.png" group-title="İş",Bloomberg TV Bulgaria

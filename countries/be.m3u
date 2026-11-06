@@ -12,7 +12,7 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="Bruzz.be" tvg-name="Bruzz" tvg-logo="https://i.imgur.com/OYlYidF.png" group-title="Genel",Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Genel",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" tvg-logo="https://i.imgur.com/JUNP8Rx.png" group-title="Genel",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Genel",EbS

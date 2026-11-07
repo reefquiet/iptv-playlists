@@ -29,6 +29,8 @@ http://213.91.179.28:8000/play/a0cs
 http://213.91.179.28:8000/play/a0cr
 #EXTINF:-1 tvg-id="78TV.bg" tvg-name="7/8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" group-title="Eğlence",7/8 TV
 http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Eğlence",Discovery Channel
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Eğlence",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action" tvg-logo="https://i.imgur.com/hGUXHuT.png" group-title="Film",bTV Action
@@ -52,7 +54,7 @@ https://shift03.isp.bg/MovieStar/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Film",Star Channel
 http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Film",TV1000
-http://85.14.32.26:8800/udp/239.100.10.100:5000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/SZtJfOG.png" group-title="Genel",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="Genel",BNT 1
@@ -129,5 +131,7 @@ http://78.108.244.134:8899/ekids
 http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Çocuk",RING
 http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-id="SuperToons.bg" tvg-name="Super Toons" tvg-logo="https://i.imgur.com/e5fdQZl.png" group-title="Çocuk",Super Toons
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://i.imgur.com/cHwOVqk.png" group-title="İş",Bloomberg TV Bulgaria
 http://213.91.179.28:8000/play/a04m

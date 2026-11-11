@@ -5,6 +5,8 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" tvg-logo="https://i.imgur.com/ItxKvVS.png" group-title="Eğlence",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-id="ANT1Satellite.gr" tvg-name="ANT1 Satellite" tvg-logo="https://i.imgur.com/ayJ2ABV.png" group-title="Eğlence",ANT1 Satellite
+http://194.156.236.36/stream/13/index.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="Eğlence",ERT3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-name="Netmax TV" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="Eğlence",Netmax TV

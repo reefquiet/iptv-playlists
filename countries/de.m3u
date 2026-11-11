@@ -720,7 +720,7 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Yaşam",Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" group-title="Yaşam",DMAX
-http://5.180.164.197:8080/DMAX/index.m3u8
+https://s6.hopslan.com/dmaxX/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDiseno.de" tvg-name="Pluto TV Diseno" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Yaşam",Pluto TV Diseno
 https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" tvg-logo="https://i.imgur.com/uvk27Fe.png" group-title="Yaşam",Pluto TV Real Life

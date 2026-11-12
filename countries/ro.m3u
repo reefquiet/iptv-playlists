@@ -79,6 +79,8 @@ https://netstreaming.eu/hd1.m3u8
 https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:-1 tvg-id="IneditTV.ro" tvg-name="Inedit TV" tvg-logo="https://i.imgur.com/HcFpNwA.png" group-title="Genel",Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="Info HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Info_TV_Deva.png/revision/latest?cb=20241109152015" group-title="Genel",Info HD
+https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="https://i.imgur.com/cNXM4Mu.png" group-title="Genel",Intermedia TV
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Genel",Kanal D
@@ -157,6 +159,8 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 http://78.96.33.89:8080
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Genel",TV SE
 http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" tvg-logo="https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg" group-title="Genel",TV1
+https://netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Genel",TVPlus Suceava
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="Genel",TVR 1
@@ -285,6 +289,8 @@ https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Spor",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+#EXTINF:-1 tvg-id="Prima4K.ro" tvg-name="Prima 4K" tvg-logo="https://i.imgur.com/fOFgdHj.png" group-title="Spor",Prima 4K
+http://92.180.26.103/stream/80/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Spor",Sport Extra

@@ -33,6 +33,8 @@ https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 #EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Din",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Dizi",Atreseries
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
 #EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Dizi",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Dizi",TVE Star
@@ -49,6 +51,12 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 #EXTINF:-1 tvg-id="HOLAPlay.es" tvg-name="HOLA! Play" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="Eğlence",HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Eğlence",La Sexta
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Eğlence",Mega
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="Eğlence",Neox
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Eğlence",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="UniversTV.es" tvg-name="Univers TV" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Eğlence",Univers TV
@@ -99,6 +107,8 @@ https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/605795588500
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Genel",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="Genel",Antena 3
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
 #EXTINF:-1 tvg-id="ArabiTV.es" tvg-name="Arabi TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Genel",Arabi TV
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-name="Aragon TV Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Genel",Aragon TV Internacional
@@ -487,6 +497,8 @@ http://90.163.85.113:8093/stream/51/index.m3u8
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="Logos TV Salud" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Yaşam",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Yaşam",Nova
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Çocuk",Boing
 http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Çocuk",Clan

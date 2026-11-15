@@ -27,10 +27,10 @@ http://92.114.85.87:8016/play/a004/index.m3u8
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="Dizi",AXN Black
 http://92.114.85.87:8014/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" tvg-logo="https://i.imgur.com/LGEbwnT.png" group-title="Dizi",AXN Spin
-http://92.114.85.87:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="Dizi",AXN White
 http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="Dizi",Paramount Network
+http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
 #EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" group-title="Dizi",Polsat Seriale
 http://92.114.85.87:8014/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Eğlence",American Crime Channel
@@ -83,8 +83,6 @@ https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 #EXTINF:-1 tvg-id="CanalPlusDomo.pl" tvg-name="Canal+ Domo" tvg-logo="https://i.imgur.com/Iz2BxbR.png" group-title="Genel",Canal+ Domo
 http://92.114.85.87:8019/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusNow.pl" tvg-name="Canal+ Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png" group-title="Genel",Canal+ Now
-http://92.114.85.87:8006/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="Genel",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" group-title="Genel",Dr G Medical Examiner
@@ -123,6 +121,8 @@ http://57.128.210.196:8080/193/index.m3u8
 http://57.128.210.196:8080/195/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png" group-title="Genel",Polsat Sport 3
 http://57.128.210.196:8080/192/index.m3u8
+#EXTINF:-1 tvg-id="PolsatX.pl" tvg-name="Polsat X" tvg-logo="https://i.imgur.com/8juCHsb.png" group-title="Genel",Polsat X
+https://bingbang.kotmiuaczek.workers.dev/?id=1594464
 #EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV" tvg-logo="https://i.imgur.com/YtaCmIc.png" group-title="Genel",Power TV
 http://92.114.85.87:8010/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Genel",Puls 2
@@ -284,13 +284,13 @@ http://57.128.210.196:8080/264/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2Polska.pl" tvg-name="Eurosport 2 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="Spor",Eurosport 2 Polska
 http://57.128.210.196:8080/263/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport3Polska.pl" tvg-name="Eurosport 3 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="Spor",Eurosport 3 Polska
-http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
+http://sultanios.alwaysdata.net/vavo.php?ID=512159637
+#EXTINF:-1 tvg-id="Eurosport4Polska.pl" tvg-name="Eurosport 4 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="Spor",Eurosport 4 Polska
+http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="Spor",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Spor",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" tvg-logo="https://i.imgur.com/BEs160o.png" group-title="Yaşam",Nuta Gold
-http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Yemek",Canal+ Kuchnia
 http://92.114.85.87:8019/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Çocuk",4 Fun Kids

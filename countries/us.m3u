@@ -957,6 +957,8 @@ https://30a-tv.com/gh.m3u8
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-name="30A Television Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Eğlence",30A Television Channel
 https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Eğlence",A&E
+https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Eğlence",A&E Latin America
 http://79.127.238.228:14551
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Eğlence",Absolute Reality by WE TV
@@ -1261,8 +1263,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AVIRewind.us" tvg-name="AVI Rewind" tvg-logo="https://zplay.cl/LogosV2/AVIREWINDS_NEW.png" group-title="Film",AVI Rewind
 http://45.70.201.81:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Film",AXN Adria
-http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Film",AXN Black
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-name="AXN Crime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" group-title="Film",AXN Crime
@@ -1546,7 +1546,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Genel",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg" group-title="Genel",ABC
-https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+https://cache0.wonvt.st/live/01qdodh1lghijw0ls22qa/master.m3u8
 #EXTINF:-1 tvg-id="Access19.us" tvg-name="Access 19" tvg-logo="https://i.imgur.com/7F4LJMT.png" group-title="Genel",Access 19
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="Access4PAC.us" tvg-name="Access 4 PAC" tvg-logo="https://i.imgur.com/DQu3gES.png" group-title="Genel",Access 4 PAC
@@ -2585,6 +2585,8 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Komedi",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Komedi",Comedy Central Latin America
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Komedi",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Komedi",Comedy Dynamics
@@ -3218,7 +3220,7 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Çocuk",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Çocuk",Nickelodeon
-https://tvnow.hostless.app/nickelodeon.m3u8
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="Çocuk",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-name="Nickelodeon Classico" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png" group-title="Çocuk",Nickelodeon Classico

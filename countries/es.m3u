@@ -66,11 +66,13 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 #EXTINF:-1 tvg-id="XPTV2.es" tvg-name="XPTV2" tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Eğlence",XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Film",AXN
-http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Film",AXN CEE
 http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="Film",AXN Movies
 http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
+#EXTINF:-1 tvg-id="BomCine.es" tvg-name="Bom Cine" tvg-logo="https://bomcine.com/img/ico/logo-bom-negro.svg" group-title="Film",Bom Cine
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Film",Cine Friki
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-name="Cine Western" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Film",Cine Western
@@ -87,6 +89,8 @@ https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/
 https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Film",Rakuten TV Top Movies
 https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" tvg-logo="https://i.imgur.com/9y8VcBr.png" group-title="Film",Squirrel
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.es" tvg-name="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="Film",Sundance TV
 https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
 #EXTINF:-1 tvg-id="101tvAntequera.es" tvg-name="101tv Antequera" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Genel",101tv Antequera
@@ -441,6 +445,8 @@ https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" group-title="Klasik",3Cat Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Komedi",Comedy Central
+http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
 #EXTINF:-1 tvg-id="Condavision.es" tvg-name="Condavision" tvg-logo="https://i.imgur.com/dlrazec.png" group-title="Kültür",Condavision
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="Kültür",El 33
@@ -511,5 +517,7 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" tvg-logo="https://i.imgur.com/y6SWpsX.png" group-title="Çocuk",KinoKazka
 http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Çocuk",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 #EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="Negocios TV" tvg-logo="https://i.imgur.com/yNRipxu.png" group-title="İş",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8

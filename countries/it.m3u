@@ -95,6 +95,8 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Antenna2TV.it" tvg-name="Antenna 2 TV" tvg-logo="https://i.imgur.com/kNrzk3X.png" group-title="Genel",Antenna 2 TV
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AntennaSicilia.it" tvg-name="Antenna Sicilia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" group-title="Genel",Antenna Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 tvg-id="AntennaSud.it" tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/Sf0bA4P.png" group-title="Genel",Antenna Sud
 https://live.antennasudwebtv.it:9443/hls/vod.m3u8
 #EXTINF:-1 tvg-id="AntennaSudExtra.it" tvg-name="Antenna Sud Extra" tvg-logo="https://i.imgur.com/kiCcHzc.png" group-title="Genel",Antenna Sud Extra
@@ -105,6 +107,8 @@ https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/pl
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="BergamoTV.it" tvg-name="Bergamo TV" tvg-logo="https://i.imgur.com/Np3RaKv.png" group-title="Genel",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel" tvg-logo="https://i.imgur.com/WrNxg2k.png" group-title="Genel",Bike Channel
+https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" tvg-logo="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" group-title="Genel",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="Genel",CafeTV24
@@ -228,7 +232,7 @@ https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTaorminaSicilia.it" tvg-name="Radio Taormina Sicilia" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="Genel",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="Genel",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="Genel",Rai 2
 http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Genel",Rai 3
@@ -512,7 +516,7 @@ http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Spor",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" tvg-logo="https://i.imgur.com/nK4UUX4.png" group-title="Spor",Horse TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Spor",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel" tvg-logo="https://i.imgur.com/vDB8HFq.png" group-title="Spor",Lazio Style Channel
@@ -522,7 +526,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Spor",Milan TV
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Spor",Nautical Channel
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-name="Radio TV Serie A" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" group-title="Spor",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Spor",Rai Sport

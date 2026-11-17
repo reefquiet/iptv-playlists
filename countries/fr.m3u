@@ -3,8 +3,12 @@
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animasyon",Gong
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas" tvg-logo="https://i.imgur.com/wmmEOza.png" group-title="Animasyon",Mangas
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Belgesel",Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoireTV.fr" tvg-name="Histoire TV" tvg-logo="https://i.imgur.com/hxuJXll.png" group-title="Belgesel",Histoire TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Belgesel",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Belgesel",Investigation Discovery
@@ -15,22 +19,30 @@ https://scihls.persiana.live/hls/stream.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BFMTechCo.fr" tvg-name="BFM Tech & Co" tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="Bilim",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" tvg-logo="https://i.imgur.com/9ELsSMI.png" group-title="Bilim",Science & Vie TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="Din",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Din",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="https://i.imgur.com/WQJ6Lbk.png" group-title="Dizi",Crime District
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Frequence Novelas" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Dizi",Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaSeries.fr" tvg-name="Persiana Series" group-title="Dizi",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Dizi",Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="Eğitim",Animaux
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-name="Persiana Medical" group-title="Eğitim",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="13emeRue.fr" tvg-name="13eme Rue" tvg-logo="https://i.imgur.com/k0DCMTL.png" group-title="Eğlence",13eme Rue
 http://192.99.186.30/stream/251/index.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Eğlence",6ter
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="Eğlence",AB1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Eğlence",arte
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Eğlence",C Star
@@ -49,8 +61,12 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg" group-title="Eğlence",SciFi
 http://192.99.186.30/stream/250/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Eğlence",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Eğlence",W9
-http://5.180.164.197:8080/W9/index.m3u8
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="Film",Action
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-name="Cine Nanar" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Film",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" tvg-name="Cine Western" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Film",Cine Western
@@ -91,6 +107,8 @@ https://4afghls.persiana.live/hls/stream.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Genel",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="Automotolachaine.fr" tvg-name="Automoto la chaine" tvg-logo="https://i.imgur.com/ebf2uc7.png" group-title="Genel",Automoto la chaine
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" tvg-logo="https://i.imgur.com/iRsbEpg.png" group-title="Genel",BFM Alsace
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="Genel",Brionnais TV
@@ -102,7 +120,7 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="Genel",France 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/France_3_Alsace_-_Logo_2018.svg" group-title="Genel",France 3
-http://89.187.185.76:8080/France3/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="Genel",France 5
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-name="Generations TV" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="Genel",Generations TV
@@ -120,15 +138,19 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-name="Moselle TV" tvg-logo="https://i.imgur.com/hrm5QnU.png" group-title="Genel",Moselle TV
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Genel",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="Genel",NOVO19
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="Paris Premiere" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="Genel",Paris Premiere
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="Genel",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Genel",RMC Decouverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="Genel",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="Serie Club" tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="Genel",Serie Club
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy" tvg-logo="https://i.imgur.com/gUOXdjv.png" group-title="Genel",Syfy
 http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="Genel",T18
@@ -137,14 +159,20 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-name="TeleGohelle" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" group-title="Genel",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva" tvg-logo="https://i.imgur.com/kDW0hN5.png" group-title="Genel",Teva
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="Genel",TFX
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="Genel",TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="Genel",TMC
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-id="ToutelHistoire.fr" tvg-name="Toute l'Histoire" tvg-logo="https://i.imgur.com/xRfyQYn.png" group-title="Genel",Toute l'Histoire
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr" tvg-name="TV Alsace" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="Genel",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV Breizh" tvg-logo="https://i.imgur.com/O8W4yhn.png" group-title="Genel",TV Breizh
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" group-title="Genel",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="Genel",TV3V
@@ -167,6 +195,8 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="TVR.fr" tvg-name="TVR" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Genel",TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="Ushuaia TV" tvg-logo="https://i.imgur.com/WjjlqbP.png" group-title="Genel",Ushuaia TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr" tvg-name="ViaMatele" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="Genel",ViaMatele
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-name="ViaOccitanie" tvg-logo="https://i.imgur.com/NzuKt1R.png" group-title="Genel",ViaOccitanie
@@ -244,7 +274,7 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Haber",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Komedi",Comedy Central
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Komedi",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Kültür",Museum TV French
@@ -263,6 +293,8 @@ https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Müzik",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="Müzik",Melody
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Müzik",Mezzo
 http://92.180.26.103/stream/62/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Müzik",Mezzo Live
@@ -319,6 +351,8 @@ https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TZiK.fr" tvg-name="TZiK" tvg-logo="https://i.imgur.com/TAagRkn.png" group-title="Müzik",TZiK
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse & Peche" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="Outdoor",Chasse & Peche
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Spor",Canal+ Sport
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Spor",Equidia

@@ -35,6 +35,10 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="RhoneTV.ch" tvg-name="Rhone TV" tvg-logo="https://i.imgur.com/YyXJaBN.png" group-title="Genel",Rhone TV
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="Genel",RTS 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-name="SRF info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png" group-title="Genel",SRF info
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://i.imgur.com/oFiixzK.png" group-title="Genel",Tele M1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Genel",TeleTicino

@@ -178,7 +178,7 @@ https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-name="True Crime by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="Dizi",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" tvg-logo="https://i.postimg.cc/BQpQRvFS/tv-rus-plus.png" group-title="Dizi",TVRUS+
-http://83.228.75.166:8000/play/a0aq
+http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="Eğitim",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-name="Curiosity Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" group-title="Eğitim",Curiosity Channel
@@ -412,7 +412,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" group-title="Genel",MDR Fernsehen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Genel",Motorvision
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-name="Motorvision+" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Genel",Motorvision+
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="Munchen TV" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="Genel",Munchen TV
@@ -594,9 +594,9 @@ https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Genel",ZDF
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Genel",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="Genel",ZDFneo
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://i.imgur.com/MNKkgfa.png" group-title="Haber",DW
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de" tvg-name="Nachrichten 360" tvg-logo="https://i.imgur.com/CwxYslK.png" group-title="Haber",Nachrichten 360

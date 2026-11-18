@@ -46,7 +46,7 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/
 #EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg" group-title="Eğlence",7 Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://share.google/qhHwXjkSbZPrPrDtg" group-title="Eğlence",Canale 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CGEntertainment.it" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/XeWzy7e.png" group-title="Eğlence",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Eğlence",Discovery Channel
@@ -156,7 +156,7 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_outp
 #EXTINF:-1 tvg-id="IcaroTV.it" tvg-name="Icaro TV" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="Genel",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" group-title="Genel",Italia 1
-http://185.227.34.62/stream/21/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia7.it" tvg-name="Italia 7" tvg-logo="https://i.imgur.com/xc0kUHk.png" group-title="Genel",Italia 7
 http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia2TV.it" tvg-name="Italia2TV" tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Genel",Italia2TV
@@ -180,7 +180,7 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" tvg-logo="https://i.imgur.com/frVhm9q.png" group-title="Genel",Lombardia TV
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/G51Lvah.png" group-title="Genel",Mediaset Extra
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title="Genel",Mediaset Italia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-id="MediterraniaTV.it" tvg-name="MediterraniaTV" tvg-logo="https://i.imgur.com/PJbXCoe.png" group-title="Genel",MediterraniaTV
@@ -248,7 +248,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Genel",Rai Premium
 http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="Genel",Rai Storia
-https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+http://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="Genel",Rai Sudtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="Genel",Rai World Premium
@@ -260,7 +260,7 @@ http://102.129.186.182:81/realtime/index.m3u8
 #EXTINF:-1 tvg-id="ReggioTV.it" tvg-name="ReggioTV" tvg-logo="https://i.imgur.com/cEwJkRV.png" group-title="Genel",ReggioTV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="Genel",Rete 4
-http://185.227.34.62/stream/14/index.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" tvg-logo="https://i.imgur.com/UtS9YLc.png" group-title="Genel",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="Rete8.it" tvg-name="Rete 8" tvg-logo="https://i.imgur.com/jojCxg3.png" group-title="Genel",Rete 8

@@ -46,7 +46,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Eğlence",arte
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Eğlence",C Star
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Eğlence",Discovery Channel
 http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Eğlence",M6
@@ -64,7 +64,7 @@ http://192.99.186.30/stream/250/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Eğlence",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Eğlence",W9
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://i.imgur.com/Zv9VsVq.png" group-title="Film",Action
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-name="Cine Nanar" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Film",Cine Nanar
@@ -130,7 +130,7 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IranNama.fr" tvg-name="Iran Nama" group-title="Genel",Iran Nama
 https://iran613hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Genel",LCP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="Genel",Le Figaro TV Ile-de-France
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Genel",MDL
@@ -234,7 +234,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END
 #EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-name="BFM Normandie" tvg-logo="https://i.imgur.com/WWWQ44G.png" group-title="Haber",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="Haber",BFM TV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMVar.fr" tvg-name="BFM Var" tvg-logo="https://i.imgur.com/vp1oVj3.png" group-title="Haber",BFM Var
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="Haber",BFM2
@@ -272,7 +272,7 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="Haber",RT France
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Haber",TV5Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Komedi",Comedy Central
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Komedi",Persiana Comedy
@@ -287,8 +287,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-name="Littoral FM TV" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Müzik",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Müzik",M6 Music
-https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630" group-title="Müzik",M6 Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Müzik",MCM Pop
 http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Müzik",MCM Top

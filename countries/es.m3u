@@ -116,7 +116,7 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="Genel",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg" group-title="Genel",Antena 3
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
+https://ignac16.github.io/voxel-tv-streams/a3.mpd
 #EXTINF:-1 tvg-id="ArabiTV.es" tvg-name="Arabi TV" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Genel",Arabi TV
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-name="Aragon TV Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Genel",Aragon TV Internacional
@@ -262,7 +262,7 @@ https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Genel",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="Genel",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 Catalunya" tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" group-title="Genel",La 2 Catalunya
@@ -416,11 +416,11 @@ https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Haber",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Haber",24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Haber",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Haber",24 Horas Catalunya
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu1.es" tvg-name="3Cat Exclusiu 1" tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="Haber",3Cat Exclusiu 1
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu2.es" tvg-name="3Cat Exclusiu 2" tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="Haber",3Cat Exclusiu 2
@@ -510,7 +510,7 @@ https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Yaşam",Nova
 https://ignac16.github.io/voxel-tv-streams/nova.mpd
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Çocuk",Boing
-http://digisat.ddns.net:4022/udp/239.0.5.177:8208
+http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Çocuk",Clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Çocuk",Clan Internacional

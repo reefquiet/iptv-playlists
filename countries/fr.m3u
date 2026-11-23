@@ -47,6 +47,8 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Eğlence",C Star
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Eğlence",Canal+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Eğlence",Discovery Channel
 http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Eğlence",M6
@@ -258,7 +260,7 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-name="Euronews Portuguese" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Haber",Euronews Portuguese
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Haber",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png" group-title="Haber",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr" tvg-name="Europe 1 TV" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" group-title="Haber",Europe 1 TV
@@ -273,6 +275,8 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Haber",TV5Monde Info
 http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie+" tvg-logo="https://i.imgur.com/ArgX0Af.png" group-title="Komedi",Comedie+
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Komedi",Comedy Central
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Komedi",Persiana Comedy

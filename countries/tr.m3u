@@ -9,10 +9,8 @@ https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="Belgesel",GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Belgesel",National Geographic
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",National Geographic Wild
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Belgesel",Viasat History
@@ -109,6 +107,8 @@ https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Genel",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="BiKanal.tr" tvg-name="Bi Kanal" tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="Genel",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Genel",Bir TV
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Genel",Bric ve Satranc TV
@@ -195,6 +195,8 @@ https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="Genel",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="PatiTV.tr" tvg-name="Pati TV" tvg-logo="https://patitv.com.tr/wp-content/themes/pati-tv/assets/img/logo-240.png" group-title="Genel",Pati TV
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="Power TV" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Genel",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTurk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Genel",PowerTurk TV
@@ -236,7 +238,7 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Genel",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Genel",TRT Turk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TurksatTanitim.tr" tvg-name="Turksat Tanitim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/960px-T%C3%BCrksat_logo.svg.png" group-title="Genel",Turksat Tanitim
 http://176.65.153.26:6004/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-logo="https://i.imgur.com/8CtrYVb.png" group-title="Genel",TV 1

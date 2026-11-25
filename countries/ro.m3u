@@ -49,6 +49,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
 #EXTINF:-1 tvg-id="SkyShowtime2.ro" tvg-name="SkyShowtime 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646" group-title="Film",SkyShowtime 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
+#EXTINF:-1 tvg-id="ViasatKino.ro" tvg-name="Viasat Kino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346" group-title="Film",Viasat Kino
+http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Genel",A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="Genel",Antena 1
@@ -105,6 +107,8 @@ https://live.nasul.tv/live/stream.m3u8
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/National_TV_2025.png" group-title="Genel",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="NationalTV2.ro" tvg-name="National TV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/National_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611184456" group-title="Genel",National TV2
+http://91.235.165.117:8002/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/NCN.svg/revision/latest/scale-to-width-down/1000?cb=20191223182658" group-title="Genel",NCN
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="Genel",Nova TV Brasov
@@ -243,6 +247,10 @@ https://tvboom.ro/live-tv/live.m3u8
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Müzik",EMI TV
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305" group-title="Müzik",Favorit TV2
+http://91.235.165.117:8002/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" tvg-logo="https://i.imgur.com/sqC2hqV.png" group-title="Müzik",H!t Music Channel
+http://91.235.165.117:8001/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="https://tvimpact.ro/impact-logo.png" group-title="Müzik",Impact TV
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTV2.ro" tvg-name="Impact TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Müzik",Impact TV 2
@@ -257,6 +265,8 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Müzik",Mooz Dance
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Music_Channel_2016.svg/revision/latest/scale-to-width-down/1000?cb=20220521103337" group-title="Müzik",Music Channel
+http://91.235.165.117:8001/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" group-title="Müzik",Orizont TV
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro" tvg-name="Party Mix" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Müzik",Party Mix
@@ -293,6 +303,12 @@ https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Spor",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Spor",Digi Sport 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Spor",Digi Sport 3
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Spor",Digi Sport 4
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Spor",Formula 1 AntenaPlay
 https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro" tvg-name="Formula 2 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Spor",Formula 2 AntenaPlay
@@ -300,7 +316,7 @@ https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro" tvg-name="NBA AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" group-title="Spor",NBA AntenaPlay
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" group-title="Spor",NHL AntenaPlay
-https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" group-title="Spor",Prima Sport 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.imgur.com/hROcepe.png" group-title="Spor",Prima Sport 2
@@ -318,15 +334,17 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2F
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Spor",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Spor",Sport Extra
-http://92.180.26.103/stream/93/index.m3u8
+http://91.235.165.117:8001/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" tvg-logo="https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png" group-title="Spor",Sport Total FM
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-name="Voyo Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646" group-title="Spor",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Spor",Voyo Sport 1
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Yaşam",Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" tvg-logo="https://static.cinemagia.ro/img/tv_station/beauty-on.jpg" group-title="Yaşam",Beauty ON
+http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Yaşam",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/3fuXBHT.png" group-title="Yaşam",TV Paprika
@@ -340,9 +358,9 @@ https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Çocuk",JimJam
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318" group-title="Çocuk",Nickelodeon
-http://178.76.68.60:7442/64/mpegts
+http://91.235.165.117:8001/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939" group-title="Çocuk",Nicktoons
-http://178.76.68.60:7442/80/mpegts
+http://91.235.165.117:8001/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" tvg-logo="https://tralaladsn.ro/assets/identity/logo.svg" group-title="Çocuk",TraLaLa DSN
 https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-name="TraLaLa TV" tvg-logo="https://i.imgur.com/xJBMnjy.png" group-title="Çocuk",TraLaLa TV

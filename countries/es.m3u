@@ -242,7 +242,7 @@ https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Mijas340TV.es" tvg-name="Mijas 3.40TV" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Genel",Mijas 3.40TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="Genel",Nortevision
-http://amaru.dyndns.org:8870/0.m3u8
+http://amaru.dyndns.org:8870/1.m3u8
 #EXTINF:-1 tvg-id="OndaAlgeciras.es" tvg-name="Onda Algeciras" tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="Genel",Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.es" tvg-name="Onda Cadiz" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="Genel",Onda Cadiz

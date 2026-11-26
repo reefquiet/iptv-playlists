@@ -367,8 +367,6 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Spor",Eurosport 2
 http://213.91.179.28:8000/play/a04b
-#EXTINF:-1 tvg-id="Eurosport4K.fr" tvg-name="Eurosport 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Spor",Eurosport 4K
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="Golf +" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Spor",Golf +
 http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" tvg-name="Kozoom TV" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Spor",Kozoom TV

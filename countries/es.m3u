@@ -85,6 +85,10 @@ https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
 #EXTINF:-1 tvg-id="101tvAntequera.es" tvg-name="101tv Antequera" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Genel",101tv Antequera
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvCadiz.es" tvg-name="101tv Cadiz" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Genel",101tv Cadiz
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Genel",101tv Sevilla
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="12tv.es" tvg-name="12tv" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="Genel",12tv
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 kanala" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="Genel",28 kanala
@@ -351,6 +355,8 @@ http://ventdelnord.tv:8080/hls/directe.m3u8
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
 #EXTINF:-1 tvg-id="VOTV.es" tvg-name="VOTV" tvg-logo="https://i.imgur.com/1g2Z64L.png" group-title="Genel",VOTV
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="Haber",101tv Malaga
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Haber",24 Horas
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="Haber",24 Horas Canarias

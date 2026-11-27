@@ -300,7 +300,7 @@ http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="Müzik",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Müzik",Mezzo
-http://92.180.26.103/stream/62/index.m3u8
+http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Müzik",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" tvg-logo="https://i.imgur.com/2xDVwOh.png" group-title="Müzik",NRJ Hits

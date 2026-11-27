@@ -220,11 +220,11 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="Genel",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1
-https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Genel",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Genel",La 2
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/960px-Logo_La_2_Canarias.png" group-title="Genel",La 2 Canarias

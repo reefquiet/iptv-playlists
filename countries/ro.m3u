@@ -188,7 +188,7 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1 tvg-id="TVBuzau.ro" tvg-name="TV Buzau" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="Genel",TV Buzau
 http://78.96.33.89:8080
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="Genel",TV SE
-http://89.38.8.130:39419
+http://91.235.165.117:8001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="TV1.ro" tvg-name="TV1" tvg-logo="https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg" group-title="Genel",TV1
 https://netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Genel",TVPlus Suceava

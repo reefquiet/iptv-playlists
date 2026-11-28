@@ -42,7 +42,7 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" group-title="Eğlence",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Eğlence",Crime + Investigation Polsat
-http://92.114.85.87:8015/play/a00d/index.m3u8
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" tvg-name="Fox" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Eğlence",Fox
 http://92.114.85.87:8015/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Eğlence",Radiowa Czworka
@@ -202,7 +202,7 @@ http://92.114.85.87:8010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="Genel",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN" tvg-logo="https://i.imgur.com/PeUsth6.png" group-title="Genel",TVN
-https://bingbang.kotmiuaczek.workers.dev/?id=3342
+http://91.226.96.110:5555/tvn/index.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-logo="https://i.imgur.com/qXrrNxv.png" group-title="Genel",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="Genel",TVP Polonia
@@ -211,6 +211,8 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tvp_polonia/live.livx/playl
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Genel",TVP1
 http://91.226.96.110:5555/tvp1/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Genel",TVP2
+http://46.149.222.219:18002/tvp2hd
 #EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Genel",TVS
 http://92.114.85.87:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Genel",TVT
@@ -297,8 +299,14 @@ https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavo
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" tvg-logo="https://i.imgur.com/8x1FV3o.png" group-title="Spor",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Spor",Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Spor",Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Spor",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Spor",TVP Sport
+http://91.226.96.110:5555/tvpsport/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia" tvg-logo="https://i.imgur.com/d1JTJBl.png" group-title="Yemek",Canal+ Kuchnia
 http://92.114.85.87:8019/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" group-title="Çocuk",4 Fun Kids
